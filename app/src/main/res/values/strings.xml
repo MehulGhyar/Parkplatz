@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Parkplatz</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="type">
+        <item>Free</item>
+        <item>Paid</item>
+    </string-array>
+</resources>
