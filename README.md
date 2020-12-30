@@ -2,11 +2,13 @@
 <h2>Find nearest parking place</h1>
 <h3>Add your parking place on app</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulghyar&label=Profile%20views&color=0e75b6&style=flat" alt="mehulghyar" /> </p>
+<p align="left">Features</p>
 
-- 🔭 I’m currently working on **Parking App**
-
-- 🌱 I’m currently learning **Backend**
+- Find parking place and it's details 
+- Search location 
+- Add your parking place details
+- Manage your saved places
+- manage your parking places
 
 
 <h3 align="left">Languages and Tools:</h3>
