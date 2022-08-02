@@ -1,4 +1,4 @@
-# Parking-App
+# Parkplatz ( Parking Place Finder)
 <h2>Find nearest parking place</h1>
 <h3>Add your parking place on app</h3>
 
